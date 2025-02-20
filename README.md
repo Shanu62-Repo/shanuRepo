@@ -1,4 +1,4 @@
 # shanuRepo
 This is my first repo
 <br>
-Author - Shanu sharma
+Author - Shanu sharma (Repoository)
